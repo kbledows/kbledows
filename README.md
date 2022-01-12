@@ -1,17 +1,16 @@
 ### Hi, I'm Konrad - Welcome to my GitHub !
 
-- &nbsp; I'm currently working on my portfolio website
-- &nbsp; I'm currently learning Next.js
-- &nbsp; I'm currently looking for an internship! 
+- &nbsp; I'm currently working on an Adventure Game RPG
+- &nbsp; I'm currently learning Web Development
+- &nbsp; I'm currently looking for an internship!  
 
 ### 🎓 Education
 - I am a fourth year Computer Science student at George Mason University
 - I graduated from Yorktown High School in 2018
 
 ### 🔗 Connect with me
-[Twitter](https://twitter.com/kbledows)
-<br>
-[LinkedIn](https://www.linkedin.com/in/konrad-bledowski-59482a1a1/)
+- &nbsp; [Twitter](https://twitter.com/kbledows)
+- &nbsp; [LinkedIn](https://www.linkedin.com/in/konrad-bledowski-59482a1a1/)
 <br />
 
 ### 🛠 Languages and Tools
