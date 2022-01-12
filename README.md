@@ -10,6 +10,7 @@
 
 ### 🔗 Connect with me
 [Twitter](https://twitter.com/kbledows)
+<br>
 [LinkedIn](https://www.linkedin.com/in/konrad-bledowski-59482a1a1/)
 <br />
 
