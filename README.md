@@ -4,23 +4,8 @@
 - &nbsp; I'm currently learning Web Development
 - &nbsp; I'm currently looking for an internship!  
 
+- &nbsp; You can find me on [Twitter](https://twitter.com/kbledows) and on [LinkedIn](https://www.linkedin.com/in/konrad-bledowski-59482a1a1/)
+
 ### 🎓 Education
 - I am a fourth year Computer Science student at George Mason University
 - I graduated from Yorktown High School in 2018
-
-### 🔗 Connect with me
-- &nbsp; [Twitter](https://twitter.com/kbledows)
-- &nbsp; [LinkedIn](https://www.linkedin.com/in/konrad-bledowski-59482a1a1/)
-<br />
-
-### 🛠 Languages and Tools
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3.org/Style/CSS/Overview.en.html)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" />](https://www.java.com/en/)
-[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" />](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" />](https://www.python.org/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
