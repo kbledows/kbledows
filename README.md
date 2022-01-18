@@ -1,4 +1,4 @@
-# Hello, I'm ***Konrad*** - Welcome to my GitHub !
+# Hello, I'm **Konrad** - Welcome to my GitHub !
 
 - &nbsp; I'm currently working on an Adventure Game RPG
 - &nbsp; I'm currently learning Web Development
