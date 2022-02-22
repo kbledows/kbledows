@@ -5,7 +5,7 @@
 - &nbsp; I'm currently looking for an internship!  
 
 ## 🎓 Education
-- I am a fourth year Computer Science student at [George Mason University](https://cs.gmu.edu/)
+- I am a fourth year Computer Science student at [George Mason University](https://www.gmu.edu/)
 - I graduated from [Yorktown High School](https://yhs.apsva.us/about-us/) in 2018
 
 ## 🧑‍💻Connect with me!
