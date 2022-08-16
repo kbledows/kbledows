@@ -2,10 +2,10 @@
 
 - &nbsp; I'm currently working on an Adventure Game RPG
 - &nbsp; I'm currently learning Web Development
-- &nbsp; I'm currently looking for an internship!  
+- &nbsp; I'm currently looking for a software development job! 
 
 ## 🎓 Education
-- I am a fourth year Computer Science student at [George Mason University](https://www.gmu.edu/)
+- I am a senior Computer Science student at [George Mason University](https://www.gmu.edu/)
 - I graduated from [Yorktown High School](https://yhs.apsva.us/about-us/) in 2018
 
 ## 🧑‍💻Connect with me!
