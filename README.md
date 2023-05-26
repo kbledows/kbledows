@@ -4,7 +4,6 @@
 
 - &nbsp; I'm currently working on an Adventure Game RPG
 - &nbsp; I'm currently learning Web Development
-- &nbsp; I'm currently looking for a software development job! 
 - &nbsp; Check out my [portfolio website!](https://kbledows.github.io)
 
 ## 🎓 Education
