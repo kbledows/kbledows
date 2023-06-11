@@ -11,6 +11,6 @@
 - I graduated from [George Mason University](https://www.gmu.edu/) with a Computer Science degree in 2022
 
 ## 🧑‍💻Connect with me!
-- &nbsp; You can find me on [Twitter](https://twitter.com/kbledows) and on [LinkedIn](https://www.linkedin.com/in/konrad-bledowski-59482a1a1/)
+- &nbsp; You can find me on [Twitter](https://twitter.com/kbledows) and on [LinkedIn](https://www.linkedin.com/in/konrad-bledowski/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kbledows&show_icons=true&locale=en&theme=tokyonight" alt="kbledows" /></p>
