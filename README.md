@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbledows&label=Profile%20views&color=0e75b6&style=flat" alt="kbledows" /> </p>
 
-- &nbsp; I'm currently working on an Adventure Game RPG
 - &nbsp; I'm currently learning Web Development
 - &nbsp; Check out my [portfolio website!](https://kbledows.github.io)
 
