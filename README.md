@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbledows&label=Profile%20views&color=0e75b6&style=flat" alt="kbledows" /> </p>
 
 - &nbsp; I'm currently learning Web Development
-- &nbsp; Check out my [portfolio website!](https://kbledows.github.io)
+- &nbsp; Check out my [portfolio website!](https://bledowski.vercel.app)
 
 ## 🎓 Education
 - I graduated from [Yorktown High School](https://yhs.apsva.us/about-us/) in 2018
