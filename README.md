@@ -5,9 +5,6 @@
 - &nbsp; I'm currently learning Web Development
 - &nbsp; Check out my [portfolio website!](https://bledowski.vercel.app)
 
-## 🎓 Education
-- I graduated from [George Mason University](https://www.gmu.edu/) with a Computer Science degree in 2022
-
 ## 🧑‍💻Connect with me!
 - &nbsp; You can find me on [LinkedIn](https://www.linkedin.com/in/konrad-bledowski/)
 
